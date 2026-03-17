@@ -75,7 +75,7 @@ Cyberbullying-Detection-ML/
 ⚠️ The trained model file is not uploaded due to GitHub size limitations.
 
 👉 Download the model from Google Drive:
-(🔗 Paste your link here)
+[(🔗 Paste your link here)](https://drive.google.com/file/d/1gbEMlzPz5-xauUq0FG5gt3m5-PqchVBn/view?usp=drive_link)
 
 After downloading, place it in the root folder:
 
@@ -112,12 +112,17 @@ streamlit run app.py
 
 ## 📸 Output
 
-* Input: Tweet text
-* Output:
+* **Input:** Tweet text
 
-  * Not Cyberbullying ✅
-  * Offensive Language ⚠️
-  * Hate Speech 🚫
+* **Output Categories:**
+
+  * `not_cyberbullying` → Safe content ✅
+  * `religion` → Religion-based bullying ⚠️
+  * `age` → Age-related bullying ⚠️
+  * `ethnicity` → Ethnicity-based bullying ⚠️
+  * `gender` → Gender-based bullying ⚠️
+  * `other_cyberbullying` → Other forms of bullying ⚠️
+
 
 ---
 
