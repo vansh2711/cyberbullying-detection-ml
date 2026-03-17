@@ -75,7 +75,7 @@ Cyberbullying-Detection-ML/
 ⚠️ The trained model file is not uploaded due to GitHub size limitations.
 
 👉 Download the model from Google Drive:
-[(🔗 Paste your link here)](https://drive.google.com/file/d/1gbEMlzPz5-xauUq0FG5gt3m5-PqchVBn/view?usp=drive_link)
+[(🔗 cyberbullying_model.pkl)](https://drive.google.com/file/d/1gbEMlzPz5-xauUq0FG5gt3m5-PqchVBn/view?usp=drive_link)
 
 After downloading, place it in the root folder:
 
